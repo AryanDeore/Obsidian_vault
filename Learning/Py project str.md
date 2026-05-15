@@ -1,0 +1,17 @@
+
+- app
+	- api
+	- core
+		- config.py
+		- loggin.py
+	- db
+	- models
+	- services
+	- main.py
+- tests: same str as app
+- .env
+- gitignore
+- .python-version
+- docker-compose.yaml: for local orchestration
+- dockerfile
+- pyproject.toml
