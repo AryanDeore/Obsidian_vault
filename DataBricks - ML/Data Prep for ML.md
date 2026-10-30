@@ -1,6 +1,32 @@
-Goal of the series is to introduce us to: 
-- PySpark - pyspark.sql, pyspark.ml
-- Feature Store -
+### EDA
+`df.summary` - sparks summary for df
+`Genie Code` - AI generated **Data Visualization** tool
+`TimeTravel` - every write operation in delta table is versioned
+
+### Imputation and Scaling
+`StringIndexer` - converts a string col to ordinal (most freq= 0, then 1)
+`OneHotEncoder` 
+`VectorAssembler` - combines multiple feature cols into 1 dense vector
+
+`RobustScalar` - uses IQR to scale feature 
+`StandardScalar` - uses mean and std dev to scale. Sensitive to outliers
+**fit** scalar only on train and **apply** on train and test both
+
+### ML pipeline
+- spark needs the Int and Bool type features to be `double` type
+- Indexer → Encoder → Imputer → vectorAssembler → StdScaler → vectorAssembler
+- The first VectorAssembler is used to combine all of the numerical features into one numerical vector, which is then scaled. The second VectorAssembler is used to combine all of the scaled numerical features with all the rest of the features, which may be Boolean or categorical
+- `VectorAssembler` - SparkML does not accept multiple numerical features; it needs them in a single vector. This is done using vector assembler. 
+- pipeline = Pipeline(stages=ppln_stages)
+- pipeline_model = pipeline.fit(train_data)
+- train_transformed_df = pipeline_model.transform(train_df)
+- test_transformed_df = pipeline_model.transform(test_df)
+-  SparkML requires a target column to be numeric for categorical columns like churn, which is a yes/no field converted into a 0.0 /  1.0  
+- write pipeline to save it
+
+### Feature Store
+FT are a part of UC.
+
 ### Pre-processing Overview
 1. Read data: `spark.read.csv
 2. Handle null: “null” → None
@@ -35,4 +61,3 @@ Don’t fit on the whole dataset. you want to normalize/scale only using the tra
 - FT uses 3 level naming convention as well: catalog_name.schema_name.FT_name
 - FE write operations: merge, append
 - cant drop features from FT using the `feature_engineering` client. we need to use `SQL DDL commands`
-- 

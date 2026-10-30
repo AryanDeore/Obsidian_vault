@@ -1,144 +1,196 @@
 {
   "recentFiles": [
     {
-      "basename": "Data Science Learning",
-      "path": "Data Science Learning.md"
+      "basename": "dotfiles",
+      "path": "Projects/dotfiles.md"
     },
     {
-      "basename": "creating_thumbnail",
-      "path": "creating_thumbnail.md"
+      "basename": "FedEX - AI Engineer",
+      "path": "Job Description/FedEX - AI Engineer.md"
     },
     {
-      "basename": "Writing DNA",
-      "path": "Writing DNA.md"
+      "basename": "Chrome Dino with hand movement",
+      "path": "Projects/Chrome Dino with hand movement.md"
     },
     {
-      "basename": "voice_profile_aryan_deore",
-      "path": "voice_profile_aryan_deore.md"
+      "basename": "SBC - Extraction Pipeline",
+      "path": "ML Resume/Catch/SBC - Extraction Pipeline.md"
     },
     {
-      "basename": "Regularization",
-      "path": "Regularization.md"
+      "basename": "Plan Genie - Multimodal Guardrails",
+      "path": "ML Resume/Catch/Plan Genie - Multimodal Guardrails.md"
     },
     {
-      "basename": "Pi Coding Agent tips",
-      "path": "Pi Coding Agent tips.md"
+      "basename": "Evals",
+      "path": "Learning/AI Masterclass/Evals.md"
     },
     {
-      "basename": "2026-05-15",
-      "path": "2026-05-15.md"
+      "basename": "AI system design",
+      "path": "Learning/System Design/AI system design.md"
     },
     {
-      "basename": "FDC Case study plan",
-      "path": "FDC Case study plan.md"
+      "basename": "System Design course",
+      "path": "Learning/System Design/System Design course.md"
     },
     {
-      "basename": "LLM from Scratch- GPT Blueprint",
-      "path": "Projects/LLM from Scratch- GPT Blueprint.md"
+      "basename": "System Design Resources",
+      "path": "Learning/System Design/System Design Resources.md"
     },
     {
-      "basename": "WR- BERTopic Ticket modeling",
-      "path": "ML Resume/WR- BERTopic Ticket modeling.md"
+      "basename": "Multi Agents",
+      "path": "Learning/AI Masterclass/Multi Agents.md"
     },
     {
-      "basename": "WR - Ticket Triaging",
-      "path": "ML Resume/WR - Ticket Triaging.md"
+      "basename": "Memory",
+      "path": "Learning/AI Masterclass/Memory.md"
     },
     {
-      "basename": "Quantiphi - PHI redaction",
-      "path": "ML Resume/Quantiphi - PHI redaction.md"
+      "basename": "Single Agentic Loop",
+      "path": "Learning/AI Masterclass/Single Agentic Loop.md"
     },
     {
-      "basename": "AHM - Pings Fraud Detection",
-      "path": "ML Resume/AHM - Pings Fraud Detection.md"
-    },
-    {
-      "basename": "AHM - Call lifecycle Omni dash",
-      "path": "ML Resume/AHM - Call lifecycle Omni dash.md"
-    },
-    {
-      "basename": "AHM - Agent Segmentation for Coaching",
-      "path": "ML Resume/AHM - Agent Segmentation for Coaching.md"
-    },
-    {
-      "basename": "Data Prep for ML",
-      "path": "DataBricks - ML/Data Prep for ML.md"
-    },
-    {
-      "basename": "Confusion Matrix",
-      "path": "Learning/Confusion Matrix.md"
-    },
-    {
-      "basename": "jpmc reqs",
-      "path": "jpmc reqs.md"
-    },
-    {
-      "basename": "SQL learnings",
-      "path": "Learning/SQL learnings.md"
-    },
-    {
-      "basename": "Py project str",
-      "path": "Learning/Py project str.md"
+      "basename": "Checkpoint and Resume",
+      "path": "Learning/AI Masterclass/Checkpoint and Resume.md"
     },
     {
       "basename": "Prompting",
-      "path": "Learning/Prompting.md"
+      "path": "Learning/AI Masterclass/Prompting.md"
     },
     {
-      "basename": "Omni 101",
-      "path": "Learning/Omni 101.md"
+      "basename": "Apartments",
+      "path": "Apartments.md"
     },
     {
-      "basename": "Next.js",
-      "path": "Learning/Next.js.md"
-    },
-    {
-      "basename": "Joins - Cardinality 101",
-      "path": "Learning/Joins - Cardinality 101.md"
-    },
-    {
-      "basename": "Hash Maps",
-      "path": "Learning/Hash Maps.md"
-    },
-    {
-      "basename": "GitHub Actions 101",
-      "path": "Learning/GitHub Actions 101.md"
-    },
-    {
-      "basename": "Git Divergence Issue",
-      "path": "Learning/Git Divergence Issue.md"
-    },
-    {
-      "basename": "Git 101",
-      "path": "Learning/Git 101.md"
-    },
-    {
-      "basename": "dlt 101",
-      "path": "Learning/dlt 101.md"
-    },
-    {
-      "basename": "dbt 101",
-      "path": "Learning/dbt 101.md"
-    },
-    {
-      "basename": "Cursor",
-      "path": "Learning/Cursor.md"
-    },
-    {
-      "basename": "AHM 101",
-      "path": "Learning/AHM 101.md"
-    },
-    {
-      "basename": "Pasted image 20260316163241",
-      "path": "Assets/Pasted image 20260316163241.png"
+      "basename": "Model Deployment",
+      "path": "DataBricks - ML/Model Deployment.md"
     },
     {
       "basename": "Model Development",
       "path": "DataBricks - ML/Model Development.md"
     },
     {
-      "basename": "TO-DO",
-      "path": "DataBricks - ML/TO-DO.md"
+      "basename": "RAG and tools",
+      "path": "Learning/AI Masterclass/RAG and tools.md"
+    },
+    {
+      "basename": "Screenshot 2026-09-16 at 11.50.59 PM",
+      "path": "Assets/Screenshot 2026-09-16 at 11.50.59 PM.png"
+    },
+    {
+      "basename": "AI Project management",
+      "path": "AI Project management.md"
+    },
+    {
+      "basename": "Plan Genie - Architecture",
+      "path": "ML Resume/Catch/Plan Genie - Architecture.md"
+    },
+    {
+      "basename": "WR- BERTopic Ticket modeling",
+      "path": "ML Resume/WindRiver/WR- BERTopic Ticket modeling.md"
+    },
+    {
+      "basename": "AI resume",
+      "path": "ML Resume/AI resume.md"
+    },
+    {
+      "basename": "WR - Ticket Triaging",
+      "path": "ML Resume/WindRiver/WR - Ticket Triaging.md"
+    },
+    {
+      "basename": "AHM 101",
+      "path": "Learning/AHM 101.md"
+    },
+    {
+      "basename": "Screenshot 2026-08-22 at 1.36.28 AM",
+      "path": "Assets/Screenshot 2026-08-22 at 1.36.28 AM.png"
+    },
+    {
+      "basename": "NYT Connections Solver",
+      "path": "Projects/NYT Connections Solver.md"
+    },
+    {
+      "basename": "Classification",
+      "path": "Learning/Solving ML problem/Classification.md"
+    },
+    {
+      "basename": "rope",
+      "path": "Projects/Blogs/rope.md"
+    },
+    {
+      "basename": "Insight Tile",
+      "path": "Projects/Insight Tile.md"
+    },
+    {
+      "basename": "My AI adoption journey",
+      "path": "Projects/Blogs/To Write/My AI adoption journey.md"
+    },
+    {
+      "basename": "RAG portfolio",
+      "path": "Projects/RAG portfolio.md"
+    },
+    {
+      "basename": "Regression",
+      "path": "Learning/Solving ML problem/Regression.md"
+    },
+    {
+      "basename": "Mafia AI PRD",
+      "path": "Projects/Mafia AI PRD.md"
+    },
+    {
+      "basename": "Topics",
+      "path": "Projects/Blogs/To Write/Done Right/Topics.md"
+    },
+    {
+      "basename": "blog-sft",
+      "path": "Projects/Blogs/blog-sft.md"
+    },
+    {
+      "basename": "blog-pretrain",
+      "path": "Projects/Blogs/blog-pretrain.md"
+    },
+    {
+      "basename": "Questions - Behavioral",
+      "path": "ML Resume/Questions - Behavioral.md"
+    },
+    {
+      "basename": "Questions - Interview",
+      "path": "ML Resume/Questions - Interview.md"
+    },
+    {
+      "basename": "EPIC",
+      "path": "ML Resume/EPIC.md"
+    },
+    {
+      "basename": "WatchLogs",
+      "path": "Projects/WatchLogs.md"
+    },
+    {
+      "basename": "AHM - Agent Segmentation for Coaching",
+      "path": "ML Resume/Catch/AHM - Agent Segmentation for Coaching.md"
+    },
+    {
+      "basename": "Denied Claims Docket preparation",
+      "path": "ML Resume/Catch/Denied Claims Docket preparation.md"
+    },
+    {
+      "basename": "README Generation Prompt Template",
+      "path": "Prompts/README Generation Prompt Template.md"
+    },
+    {
+      "basename": "vidwatch-prd",
+      "path": "Projects/vidwatch-prd.md"
+    },
+    {
+      "basename": "AHM - Pings Fraud Detection",
+      "path": "ML Resume/Catch/AHM - Pings Fraud Detection.md"
+    },
+    {
+      "basename": "Real world Google ADK project",
+      "path": "Learning/Real world Google ADK project.md"
+    },
+    {
+      "basename": "AHM - Call lifecycle Omni dash",
+      "path": "ML Resume/Catch/AHM - Call lifecycle Omni dash.md"
     }
   ],
   "omittedPaths": [],

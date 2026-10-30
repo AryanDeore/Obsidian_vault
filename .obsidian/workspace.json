@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a75ceb6775eb32f5",
+        "id": "1f3136db295ed4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "a72de2e79b3c3fce",
+            "id": "a22789012ccf781b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Science Learning.md",
+                "file": "Learning/AI Masterclass/Prompting.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,131 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data Science Learning"
+              "title": "Prompting"
+            }
+          },
+          {
+            "id": "fbe611077b1daa92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/AI Masterclass/Single Agentic Loop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Single Agentic Loop"
+            }
+          },
+          {
+            "id": "8e47243be2786bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/AI Masterclass/Single Agentic Loop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Single Agentic Loop"
+            }
+          },
+          {
+            "id": "f7d96ea388f24721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/AI Masterclass/Memory.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Memory"
+            }
+          },
+          {
+            "id": "850c6f1efc27e65a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/System Design/AI system design.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI system design"
+            }
+          },
+          {
+            "id": "2d9fb0d2e1f43900",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/dotfiles.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dotfiles"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -51,7 +172,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -91,7 +214,7 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           }
         ]
@@ -114,17 +237,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pi Coding Agent tips.md",
-                "collapseAll": false,
+                "file": "ML Resume/Catch/Plan Genie - Multimodal Guardrails.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pi Coding Agent tips"
+              "title": "Backlinks"
             }
           },
           {
@@ -133,12 +256,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pi Coding Agent tips.md",
+                "file": "ML Resume/Catch/Plan Genie - Multimodal Guardrails.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pi Coding Agent tips"
+              "title": "Outgoing links"
             }
           },
           {
@@ -170,18 +293,9 @@
               "icon": "lucide-list",
               "title": "Outline of Pi Coding Agent tips"
             }
-          },
-          {
-            "id": "1816a6125a82b81f",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,8 +304,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -199,24 +313,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "a72de2e79b3c3fce",
+  "active": "2d9fb0d2e1f43900",
   "lastOpenFiles": [
-    "creating_thumbnail.md",
-    "Data Science Learning.md",
-    "Writing DNA.md",
-    "voice_profile_aryan_deore.md",
-    "Regularization.md",
-    "Pi Coding Agent tips.md",
-    "2026-05-15.md",
-    "Daily dump/2026-03-12.md",
-    "test.txt",
-    "Daily dump/2026-03-09.md",
-    "TrueML - chatGPT.md",
-    "FDC Case study plan.md",
-    "README.md",
-    "pivots for snowflake notebook.md",
-    "Limits.md",
-    "FDC presentation.md",
-    "Daily dump/2026-05-07.md"
+    "Job Description/FedEX - AI Engineer.md",
+    "Projects/dotfiles.md",
+    "2026-10-25.md",
+    "Projects/Chrome Dino with hand movement.md",
+    "ML Resume/Catch/SBC - Extraction Pipeline.md",
+    "ML Resume/Catch/Plan Genie - Multimodal Guardrails.md",
+    "2026-10-21.md",
+    "Learning/AI Masterclass/Evals.md",
+    "Learning/System Design/AI system design.md",
+    "Learning/System Design/System Design course.md",
+    "Learning/System Design/System Design Resources.md",
+    "Learning/AI Masterclass/Multi Agents.md",
+    "Learning/AI Masterclass/Memory.md",
+    "Learning/AI Masterclass/Single Agentic Loop.md",
+    "Learning/AI Masterclass/Checkpoint and Resume.md",
+    "Learning/AI Masterclass/Prompting.md",
+    "Apartments.md",
+    "DataBricks - ML/Model Deployment.md",
+    "DataBricks - ML/Model Development.md",
+    "Learning/AI Masterclass/RAG and tools.md",
+    "Assets/Screenshot 2026-09-16 at 11.50.59 PM.png",
+    "AI Project management.md",
+    "Learning/AI Masterclass",
+    "ML Resume/Catch/Plan Genie - Architecture.md",
+    "CHOICES.md",
+    "2026-09-21.md",
+    "2026-09-11.md",
+    "2026-09-08.md",
+    "Assets/Screenshot 2026-08-22 at 1.36.28 AM.png",
+    "Projects/Blogs/To Write",
+    "Learning/Solving ML problem",
+    "Projects/Blogs/To Write/Done Right",
+    "Assets/pdf_structure.png",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Learning/System Design",
+    "ML Resume/Quantiphi",
+    "ML Resume/WindRiver",
+    "ML Resume/Catch",
+    "Assets/Pasted image 20250808163530.png",
+    "Assets/GPT-architecture.png",
+    "Assets/gpu_100.png",
+    "Assets/github actions.png",
+    "Assets/git commands flow.webp",
+    "Assets/Confusion_matrix.png",
+    "Assets/Branch Divergence Diagram.svg",
+    "Prompts"
   ]
 }
